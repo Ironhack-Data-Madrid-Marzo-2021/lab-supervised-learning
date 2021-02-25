@@ -24,7 +24,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
-[sklearn.neighbors.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+[sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 
 [Feature scaling](https://en.wikipedia.org/wiki/Feature_scaling)
 
